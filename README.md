@@ -18,6 +18,19 @@ PROJECT_7(Male_And_Female_using_CNN) URL:--------
 
 https://project7binaryimageclassificationusingcnn-v5awnobp6kzvm9ynqxy3.streamlit.app/
 
+PROJECT_8( Iris Flower Classification AI) URL:--------
+
+https://project8knndeployement-5qzequrzod8akmfxvm4gpa.streamlit.app/
+
 PROJECT_9(Male_And_Female_Eye_Detection) URL:--------
 
 https://project9maleandfemaleeyedetection-3h4f2cjdyof8bwk4vz29wz.streamlit.app/
+
+
+
+
+
+
+
+
+
