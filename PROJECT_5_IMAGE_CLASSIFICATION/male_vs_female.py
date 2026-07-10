@@ -103,7 +103,7 @@ Built using:
 * NumPy
   """)
 
-st.sidebar.success("Model: Logistic Regression")
+st.sidebar.success("Model:Image Classification")
 
 # ==========================================
 
