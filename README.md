@@ -31,8 +31,9 @@ PROJECT_10_(Health_Insurance_RAG) URL:--------
 https://project10ragchatbox-betakj8mwc7lkblpgsuztu.streamlit.app/
 
 
+PROJECT_11_(KGF_2_Movie_Analyzer) URL:--------
 
-
+https://project11moviereviewusingllm-6pnlekaczhdyxrebuk2bjk.streamlit.app/
 
 
 
